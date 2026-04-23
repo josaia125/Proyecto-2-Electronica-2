@@ -1,7 +1,7 @@
 %% =====================================================
 %  CÁLCULOS DEL PRE-AMPLIFICADOR
 %  Configuración: Drenaje Común (Source Follower)
-%  Transistor: JFET J111
+%  Transistor: JFET 2N5457
 % ======================================================
 
 clc; clear; close all;
