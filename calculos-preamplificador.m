@@ -6,8 +6,8 @@
 
 clc; clear; close all;
 
-%% --- PARÁMETROS DEL JFET J111 ---
-IDSS = 3e-3;       % Corriente de saturación [A] = 5 mA
+%% --- PARÁMETROS DEL JFET ---
+IDSS = 3e-3;       % Corriente de saturación [A] 
 VP   = -3;         % Tensión de pinch-off [V]
 VDD  = 18;         % Tensión de alimentación [V]
 
